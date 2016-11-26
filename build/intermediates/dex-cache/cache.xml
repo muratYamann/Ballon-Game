@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/murat/Masaüstü/muratOsman/yazlab_v3/Yazlab/core/build/libs/core-1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="78c5a61cd0fe05531877d78e5b99ac279387b387">
+        <dex dex="/home/murat/Masaüstü/muratOsman/yazlab_v3/Yazlab/android/build/intermediates/pre-dexed/debug/core-1.0_136f20242fcbb1262f6c6105afdb38aac0f25ccc.jar" />
+    </item>
+
+</items>

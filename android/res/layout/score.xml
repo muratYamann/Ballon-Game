@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="@drawable/score_os"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="No data"
+        android:id="@+id/tv1Sonuc"
+        android:textColor="#D68910"
+        android:textStyle="bold"
+        android:textSize="32sp"
+        android:layout_marginBottom="149dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="No data "
+        android:textColor="#F5B041"
+        android:textStyle="bold"
+        android:textSize="25sp"
+        android:id="@+id/tv2Sonuc"
+        android:layout_marginTop="34dp"
+        android:layout_alignTop="@+id/tv1Sonuc"
+        android:layout_alignLeft="@+id/tv1Sonuc"
+        android:layout_alignStart="@+id/tv1Sonuc" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="No Data "
+        android:textColor="#F8C471"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:id="@+id/tv3Sonuc"
+        android:layout_below="@+id/tv2Sonuc"
+        android:layout_alignLeft="@+id/tv1Sonuc"
+        android:layout_alignStart="@+id/tv1Sonuc" />
+</RelativeLayout>
